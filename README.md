@@ -127,11 +127,6 @@ key, value로 이루어진 자바스크립트의 object와 비슷함
     {'name': 'nico', 'xp': 1234.123},
     {'name': 'lynn', 'xp': 1234.123}
   ];
-
-  .
-  .
-  .
-
 ```
 
 **\<Sets>**  
@@ -153,7 +148,7 @@ brackets로 감싸진 List, but 모든 요소가 고유함(중복 X)
 ## #3 Functions
 
 **\<Fat Arrow Notation>**  
-"return . . ." = "=> . . ."
+`return . . .` = `=> . . .`
 
 ```dart
   String sayHello(String potato) => "Hello $potato nice to meet you!";
