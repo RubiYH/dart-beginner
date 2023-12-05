@@ -225,10 +225,6 @@ left ?? right //left가 존재하면 left 그대로, 만약 left가 null이면 l
   print(name); //another
 ```
 
----
-
-## #4 Classes
-
 **\<Typedef>**  
 자료형에 별칭을 붙여줄 수 있음
 
@@ -503,7 +499,7 @@ void main() {
   }
 ```
 
-**\<Inheritance>**
+**\<Inheritance>**  
 여느 프로그래밍 언어의 클래스 상속 방식과 같음
 
 ```dart
@@ -568,3 +564,5 @@ class Kid with QuickRunner {
 }
 
 ```
+
+---
